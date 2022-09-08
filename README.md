@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=CH's%20Github%20Profile&fontSize=50&stroke=000000&strokeWidth=2)
+
 ### Hi there 👋
 
 <!--

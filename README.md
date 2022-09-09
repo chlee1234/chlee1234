@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,21,22,23&height=200&section=header&text=CH's%20Github%20Profile&fontSize=50&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,21,22,23&height=200&section=header&text=CH's%20Github%20Profile&fontSize=70&stroke=000000&strokeWidth=2)
 
 ### Hi there 👋
 
